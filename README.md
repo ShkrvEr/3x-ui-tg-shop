@@ -20,8 +20,6 @@
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/ShkrvEr/3xui-shop)
 
 
-[![Static Badge](https://img.shields.io/badge/public_channel-white?style=social&logo=Telegram&logoColor=blue&logoSize=auto&labelColor=white&link=https%3A%2F%2Ft.me%2Fsn0ups)](https://t.me/sn0ups)
-[![Static Badge](https://img.shields.io/badge/contact_me-white?style=social&logo=Telegram&logoColor=blue&logoSize=auto&labelColor=white&link=https%3A%2F%2Ft.me%2FShkrvEr)](https://t.me/ShkrvEr)
 ![GitHub Repo stars](https://img.shields.io/github/stars/ShkrvEr/3xui-shop)
 </div>
 
