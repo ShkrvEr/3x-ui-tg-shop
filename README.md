@@ -116,8 +116,12 @@ Before starting the installation, make sure you have the installed [**Docker**](
    bash <(curl -Ls https://raw.githubusercontent.com/ShkrvEr/3x-ui-tg-shop/refs/heads/main/scripts/install.sh) -q
    cd 3xui-shop
    ```
+    **One line installer + dependencies:**
+   ```bash
+   sudo apt update && sudo apt install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin && echo '{"min-api-version":"1.24"}' | sudo tee /etc/docker/daemon.json && sudo systemctl restart docker && bash <(curl -Ls https://raw.githubusercontent.com/ShkrvEr/3x-ui-tg-shop/refs/heads/main/scripts/install.sh) -q && cd 3xui-shop
+   ```
 
-2. **Set up environment variables and plans:**
+3. **Set up environment variables and plans:**
 - Copy `plans.example.json` to `plans.json` and `.env.example` to `.env`:
     ```bash
     cp plans.example.json plans.json
