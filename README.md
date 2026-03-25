@@ -1,8 +1,8 @@
 <div align="center" markdown>
 
 <p align="center">
-    <a href="https://github.com/snoups/3xui-shop/blob/main/README.md"><u><b>ENGLISH</b></u></a> •
-    <a href="https://github.com/snoups/3xui-shop/blob/main/README.ru_RU.md"><u><b>РУССКИЙ</b></u></a>
+    <a href="https://github.com/ShkrvEr/3xui-shop/blob/main/README.md"><u><b>ENGLISH</b></u></a> •
+    <a href="https://github.com/ShkrvEr/3xui-shop/blob/main/README.ru_RU.md"><u><b>РУССКИЙ</b></u></a>
 </p>
 
 ![3xui-shop](https://github.com/user-attachments/assets/282d10db-a355-4c65-a2cf-eb0e8ec8eed1)
@@ -14,22 +14,22 @@
     <a href="#installation-guide">Installation guide</a> •
 </p>
 
-![GitHub License](https://img.shields.io/github/license/snoups/3xui-shop)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/snoups/3xui-shop/total)
-![GitHub Release](https://img.shields.io/github/v/release/snoups/3xui-shop)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/snoups/3xui-shop)
+![GitHub License](https://img.shields.io/github/license/ShkrvEr/3xui-shop)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ShkrvEr/3xui-shop/total)
+![GitHub Release](https://img.shields.io/github/v/release/ShkrvEr/3xui-shop)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/ShkrvEr/3xui-shop)
 
 
 [![Static Badge](https://img.shields.io/badge/public_channel-white?style=social&logo=Telegram&logoColor=blue&logoSize=auto&labelColor=white&link=https%3A%2F%2Ft.me%2Fsn0ups)](https://t.me/sn0ups)
-[![Static Badge](https://img.shields.io/badge/contact_me-white?style=social&logo=Telegram&logoColor=blue&logoSize=auto&labelColor=white&link=https%3A%2F%2Ft.me%2Fsnoups)](https://t.me/snoups)
-![GitHub Repo stars](https://img.shields.io/github/stars/snoups/3xui-shop)
+[![Static Badge](https://img.shields.io/badge/contact_me-white?style=social&logo=Telegram&logoColor=blue&logoSize=auto&labelColor=white&link=https%3A%2F%2Ft.me%2FShkrvEr)](https://t.me/ShkrvEr)
+![GitHub Repo stars](https://img.shields.io/github/stars/ShkrvEr/3xui-shop)
 </div>
 
 >[!WARNING]
 >**This repository is no longer maintained.**  
-**The bot has moved to a new panel and now has its own new [repository](https://github.com/snoups/remnashop/) with an improved architecture, expanded functionality, and better stability — all built thanks to Remnawave.**
+**The bot has moved to a new panel and now has its own new [repository](https://github.com/ShkrvEr/remnashop/) with an improved architecture, expanded functionality, and better stability — all built thanks to Remnawave.**
 >
->**[Check out the new project](https://github.com/snoups/remnashop/) — it’s faster, cleaner, and much more capable!**
+>**[Check out the new project](https://github.com/ShkrvEr/remnashop/) — it’s faster, cleaner, and much more capable!**
 
 <a id="overview"></a>
 
